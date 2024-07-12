@@ -1,0 +1,51 @@
+
+.tabs {
+    display: flex;justify-content: space-around;
+    list-style-type: none;
+    padding: 0%;
+    margin: 0;
+    font-size: medium;
+font color : overscroll-behavior-block;
+
+}
+body{
+    border: 2px solid burlywood;
+    color: rgba(58, 47, 5, 0.817);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blanchedalmond;
+
+}
+h2{
+font-size: 30px;
+color:rgba(12, 8, 1, 0.45);
+font-style: italic;
+    
+} 
+img { 
+   width: 50% ;
+   height: 40%;
+
+}
+
+    width: 50%;
+    height: 50%;
+    border: 3px solid gray;
+    border-radius: 30px;
+
+div{
+    height: 50%;
+    width: 40%;
+}
+img{
+    width: 50%;
+height: 50%;
+
+}
+
+header{
+    background-color: rgba(255, 225, 127, 0.589);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0% 30px;
+}
